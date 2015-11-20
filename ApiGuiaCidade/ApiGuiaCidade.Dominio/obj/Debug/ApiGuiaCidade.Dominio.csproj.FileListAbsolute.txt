@@ -1,0 +1,9 @@
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Dominio\bin\Debug\ApiGuiaCidade.Dominio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Dominio\bin\Debug\ApiGuiaCidade.Dominio.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Dominio\obj\Debug\ApiGuiaCidade.Dominio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Dominio\obj\Debug\ApiGuiaCidade.Dominio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Dominio\bin\Debug\ApiGuiaCidade.Dominio.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Dominio\bin\Debug\ApiGuiaCidade.Dominio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Dominio\obj\Debug\ApiGuiaCidade.Dominio.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Dominio\obj\Debug\ApiGuiaCidade.Dominio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Dominio\obj\Debug\ApiGuiaCidade.Dominio.csprojResolveAssemblyReference.cache

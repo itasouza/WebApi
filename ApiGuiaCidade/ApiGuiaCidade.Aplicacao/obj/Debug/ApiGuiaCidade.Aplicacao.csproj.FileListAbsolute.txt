@@ -1,0 +1,18 @@
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Aplicacao.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Aplicacao.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Dominio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Repositorio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Dominio.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Repositorio.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\obj\Debug\ApiGuiaCidade.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\obj\Debug\ApiGuiaCidade.Aplicacao.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\obj\Debug\ApiGuiaCidade.Aplicacao.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Aplicacao.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Aplicacao.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Dominio.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Repositorio.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Dominio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\bin\Debug\ApiGuiaCidade.Repositorio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\obj\Debug\ApiGuiaCidade.Aplicacao.csprojResolveAssemblyReference.cache
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\obj\Debug\ApiGuiaCidade.Aplicacao.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade.Aplicacao\obj\Debug\ApiGuiaCidade.Aplicacao.pdb

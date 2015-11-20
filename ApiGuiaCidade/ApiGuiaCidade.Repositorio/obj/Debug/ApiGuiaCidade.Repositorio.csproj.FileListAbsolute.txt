@@ -1,0 +1,5 @@
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Repositorio\bin\Debug\ApiGuiaCidade.Repositorio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Repositorio\bin\Debug\ApiGuiaCidade.Repositorio.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Repositorio\obj\Debug\ApiGuiaCidade.Repositorio.csprojResolveAssemblyReference.cache
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Repositorio\obj\Debug\ApiGuiaCidade.Repositorio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade.Repositorio\obj\Debug\ApiGuiaCidade.Repositorio.pdb

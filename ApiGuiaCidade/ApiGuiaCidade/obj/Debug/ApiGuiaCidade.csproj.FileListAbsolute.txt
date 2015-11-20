@@ -1,0 +1,128 @@
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\csc.exe
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\System.Collections.Immutable.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\vbc.exe
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\VBCSCompiler.exe
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\VBCSCompiler.exe.config
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.dll.config
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Ionic.Zip.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Cors.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Newtonsoft.Json.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Owin.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Extensions.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Formatting.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Primitives.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Cors.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.Owin.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\WebApi.OutputCache.Core.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\WebApi.OutputCache.V2.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Ionic.Zip.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Cors.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\Newtonsoft.Json.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Extensions.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Formatting.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Primitives.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.Owin.xml
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.csproj.App.config
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.csprojResolveAssemblyReference.cache
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Aplicacao.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Dominio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Repositorio.dll
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Aplicacao.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Dominio.pdb
+C:\Repositorio\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Repositorio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\csc.exe
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\System.Collections.Immutable.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\System.Reflection.Metadata.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\vbc.exe
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\VBCSCompiler.exe
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\roslyn\VBCSCompiler.exe.config
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.dll.config
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Aplicacao.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Dominio.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Ionic.Zip.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Cors.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.ServiceLocation.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.Configuration.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Newtonsoft.Json.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Owin.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Extensions.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Formatting.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Primitives.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Cors.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.Owin.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\WebApi.OutputCache.Core.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\WebApi.OutputCache.V2.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Repositorio.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Aplicacao.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Dominio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Ionic.Zip.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Cors.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.ServiceLocation.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.ServiceLocation.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.Configuration.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\Newtonsoft.Json.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Extensions.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Formatting.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Net.Http.Primitives.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\System.Web.Http.Owin.xml
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\bin\ApiGuiaCidade.Repositorio.pdb
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.csproj.App.config
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.csprojResolveAssemblyReference.cache
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.dll
+G:\Guia de Cidade\ApiGuiaCidade\ApiGuiaCidade\obj\Debug\ApiGuiaCidade.pdb
